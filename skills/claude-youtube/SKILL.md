@@ -14,7 +14,8 @@ description: >
 tools:
   - Read
   - Write
-  - Bash
+  - Bash(python3 skills/claude-youtube/execution/*.py *)
+  - Bash(yt-dlp *)
   - WebSearch
   - Edit
   - Grep
